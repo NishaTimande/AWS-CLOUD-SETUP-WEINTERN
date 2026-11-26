@@ -58,11 +58,14 @@ Opened in Browser:
 ```
 http://32.237.98.212
 ```
+![Nginx Page](Screenshot%20(26).png)
 **Result:** Welcome to nginx! Page displayed successfully.
 
 ### 11. Create AMI Snapshot
 EC2 > Actions > Image and templates > Create image
 Image Name: `nginx`
+![Nginx Page](Screenshot%20(27).png)
+![Nginx Page](Screenshot%20(28).png)
 
 ### 12. Documentation
 Took Screenshots of all Steps for Documentation.
