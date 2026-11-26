@@ -1,5 +1,5 @@
 # AWS-CLOUD-SETUP-WEINTERN
-# AWS EC2 - Nginx Web Server Setup
+# AWS EC2 
 
 ## Project Overview
 In this project, an Ubuntu Server was launched on AWS EC2 and Nginx Web Server was installed on it.
