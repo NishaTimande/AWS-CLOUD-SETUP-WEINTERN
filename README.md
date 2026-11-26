@@ -36,8 +36,34 @@ Checked all settings and Launched the Instance.
 ### 7. Connect via SSH
 ```bash
 ssh -i "linuxkeypair.pem" ubuntu@32.237.98.212
+```
 
 ### 8. Install Nginx
 ```bash
 sudo apt update
 sudo apt install nginx -y
+```
+
+### 9. Start Nginx
+```bash
+sudo systemctl start nginx
+sudo systemctl enable nginx
+sudo systemctl status nginx
+```
+
+### 10. Verify in Browser
+Opened in Browser:
+```
+http://32.237.98.212
+```
+**Result:** Welcome to nginx! Page displayed successfully.
+
+### 11. Create AMI Snapshot
+EC2 > Actions > Image and templates > Create image
+Image Name: `nginx`
+
+### 12. Documentation
+Took Screenshots of all Steps for Documentation.
+
+## Output
+Nginx Successfully Installed and Running.
