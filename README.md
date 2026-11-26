@@ -38,6 +38,7 @@ Checked all settings and Launched the Instance.
 ```bash
 ssh -i "linuxkeypair.pem" ubuntu@32.237.98.212
 ```
+![Nginx Page](Screenshot%20(25).png)
 
 ### 8. Install Nginx
 ```bash
