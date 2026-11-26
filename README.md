@@ -52,7 +52,7 @@ sudo systemctl start nginx
 sudo systemctl enable nginx
 sudo systemctl status nginx
 ```
-![Nginx Page](Screenshot%20(29).png)
+![Nginx Page](Screenshot%20(30).png)
 
 
 ### 10. Verify in Browser
