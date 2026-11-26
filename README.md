@@ -32,6 +32,7 @@ Created a new Key Pair and downloaded the `.pem` file.
 
 ### 6. Review and Launch Instance
 Checked all settings and Launched the Instance.
+![Nginx Page](Screenshot%20(24).png)
 
 ### 7. Connect via SSH
 ```bash
