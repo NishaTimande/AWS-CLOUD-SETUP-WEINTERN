@@ -52,6 +52,8 @@ sudo systemctl start nginx
 sudo systemctl enable nginx
 sudo systemctl status nginx
 ```
+![Nginx Page](Screenshot%20(29).png)
+
 
 ### 10. Verify in Browser
 Opened in Browser:
